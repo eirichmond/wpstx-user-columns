@@ -2,7 +2,7 @@
 /**
  * Plugin Name:     Wpstx User Columns
  * Plugin URI:      https://advent.elliottrichmond.co.uk
- * Description:     To add a custom column in the Users list
+ * Description:     To add a custom column in the WordPress Users list
  * Author:          Elliott Richmond
  * Author URI:      https://elliottrichmond.co.uk
  * Text Domain:     wpstx-user-columns
